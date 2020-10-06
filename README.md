@@ -20,7 +20,7 @@
 
 **✅ Sign up**
 
-1. Before you start using our tools, you'll need to create an account on [DataStax Astra](dtsx.io/workshop)
+1. Before you start using our tools, you'll need to create an account on [DataStax Astra](http://dtsx.io/workshop)
 
 ![Astra](https://github.com/datastaxdevs/shared-assets/blob/master/astra/login-1000.png?raw=true)
 
